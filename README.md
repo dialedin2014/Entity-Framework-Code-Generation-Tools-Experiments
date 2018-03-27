@@ -18,3 +18,17 @@ supporting Classes and made them into *.cs files, with very little modification.
 Have fun!
 JsrSoft
 June 2013
+
+
+========================================================================================================
+
+Thank you JsrSoft!  Your work made a project possible.
+
+This fork reduces the Solution to one .NET 4.6.2 Class Library Project, with the intention of including that in other projects.
+
+I did some renaming, and got it to build using EF6.
+
+Only CodeGenerationTools and EntityFrameworkTemplateFileManager were updated from the latest EF6.Utility.CS.ttinclude file.
+
+Christopher Grace
+March 2018

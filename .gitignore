@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/EF.Utility.CS.FromTTinclude/bin/Debug
+/EF.Utility.CS.FromTTinclude/obj
